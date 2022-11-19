@@ -1,0 +1,23 @@
+.rowdiv{
+    height: 100%;
+}
+.logindiv{
+    width:30%;
+}
+.login-heading{
+    width: 100%;
+    text-align: center;
+}
+label{
+    padding-top: 25px;
+}
+input:not(.button){
+    width: 100%;
+}
+.button{
+    width: 100px;
+    margin-top: 25px;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
